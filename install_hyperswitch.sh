@@ -1,0 +1,1 @@
+sudo sh install_from_dmg.sh https://bahoom.com/hyperswitch/download HyperSwitch
