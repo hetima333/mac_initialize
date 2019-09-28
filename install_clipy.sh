@@ -1,0 +1,1 @@
+sudo sh install_from_dmg.sh https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg Clipy
